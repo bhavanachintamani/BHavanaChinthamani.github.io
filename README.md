@@ -1,57 +1,84 @@
 
 
-# DATA SCIENTIST 
+# DATA SCIENTIST | AI & MACHINE LEARNING ENTHUSIAST 
 
 ### PROFESSIONAL SUMMARY
 
-- Senior Data Scientist with 5+ years' expertise in Deep Learning, delivering statistical analytical solutions for Banking & Finance, Healthcare, Pharma, Retail, and Automotive industries.
-- Proficient in Python, Data Science, Machine Learning, Deep Learning, SQL, Azure, AWS and Github. 
-- Experienced in developing, optimizing, and deployment data pipelines including implementing CI/CD processes.
-- Showcased expertise in statistical analysis, A/B testing, Regression (Linear, Non-Linear, Time Series, XGBoost, Lasso, Ridge), Classification(Ensembles,SVMs, KNNs), Clustering (K-Means, DBSCAN, Hierarchical & Brute Force), and Time Series (ARIMA, SARIMA, LSTM, GRU and Prophet).
-- Solid grasp of Language Model Libraries (LLM) and Vector Databases, for Generative AI applications.
+Highly motivated Computer Science graduate specialising in Artificial Intelligence.
+
+Proficient in Python, JavaScript, Angular, Java, and C/C++ with hands-on experience in Machine Learning, Data Analysis, and Web Development.
+
+Completed multiple internships focused on AI model development, predictive analytics, and data-driven solutions.
+
+Strong foundation in Data Structures, Operating Systems, OOP, and Database Management.
+
+Passionate about leveraging Artificial Intelligence and Data Science to build impactful real-world solutions.
 
 ### TECHNICAL SKILLS
 
-- **Cloud Computing Platforms**: AWS and Azure – Workspace, Instance, Storage, Network establishment, Lambda, Sagemaker, RDS, Redshift, Cloud Watch, IAM, Active Directory, Resource Manager, ML Workspace, DNS and Cloud Monitor.
-- **Programming and Tools**: Python, Big Data, Hadoop, Map Reduce, MLflow, PySpark, Stats models, Tableau, Power BI, Pandas, Numpy, SQLAlchemy, NLTK, Dash, Plotly, Matplotlib, Jupyter, NLP, Postman, ROBOT & Selenium.
-- **ML/DL Frameworks**: TensorFlow, Keras, Pytorch, Openvino, ONNX, Scikit-Learn and XGBoost
-- **ML/DL Algorithms**: Classification (Linear, Random Forest, KNN, SVM), Regression (Linear, Sparse, Regularized), Clustering(K-means), and Convolutional Neural Networks (Object detection and Image Classification).
-- **Databases**: SQL, MySQL, PostgreSQL, Microsoft database for SQL Server, Microsoft Database for MYSQL, Microsoft database for PostgreSQL Server, Oracle SQL, SQLite, and AWS RDS.
-- **Deployment Tools**: Flask, Django, Web2Py, Dockers, and Kubernetes
-- **Operating Systems**: Windows, Linux (Ubuntu)
-- **Version Control Systems**: Git, GitHub, GitLab, Bitbucket, and Data Version Control (DVC)
+Artificial Intelligence & Machine Learning: Predictive Modeling, Supervised & Unsupervised Learning, K-Means Clustering, Model Evaluation, Feature Engineering.
+
+Programming Languages: Python, Java, C, C++, JavaScript.
+
+Web Technologies: Angular, APIs, Git, GitHub.
+
+Data & Analytics Tools: Pandas, NumPy, Power BI, Tableau, Excel.
+
+Databases: MySQL, SQL.
+
+Computer Science Fundamentals: Data Structures, Algorithms, Operating Systems, Object-Oriented Programming (OOP).
+
+Cloud & Tools: AWS (Basics).
+
+Soft Skills: Analytical Thinking, Communication, Adaptability, Problem Solving.
 
 ### EDUCATION
-- Masters, AI & ML | Lambton College, Toroto (_Aug 2023_)								       		
-- B.E, Computer Science	| Anna University, India (_April 2018_)	 			 
+B.Tech – Computer Science with Artificial Intelligence
+Madanapalle Institute of Technology (Sep 2022 – May 2025)
+
+Diploma – Computer Science Engineering
+PES Polytechnic College (Aug 2018 – Nov 2020)
+
+Matriculation
+St. Thomas English Medium School (Jun 2015 – May 2016)
+
 
 ### CERTIFICATIONS
-- [Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/aswinprabhakaran-0701/credentials/1b229761ae17a15e)| Issued by Microsoft
-- Machine Learning with Tensor-flow 2.0 | Issued by Google & IIT-M  
+
+30-Day Master Class in Artificial Intelligence – Stanford University
+
+Data Analyst – Coursera
+
+Web Development Bootcamp – Udemy
+
+Data Structures & Algorithms – Simplilearn
+
+JavaScript – EdX
+
+SQL for Data Analysis – HackerRank
+
+Python Programming – Google Digital Garage
+
+Machine Learning Basics – IBM SkillsBuild
 
 ### WORK EXPERIENCE
 
-#### Data Scientist – Mesons Technologies, Toronto (Apr 2023 – Sep 2023)
+#### Data Analyst Intern – Rooman Technologies, Bengaluru (Feb 2025 – May 2025)
 
-- Developed robust Python-based REST APIs, thoroughly tested using platforms like Postman, Swagger, and Azure API for seamless integration and software quality.
-- Conducted UI testing with advanced ROBOT & Selenium frameworks, simulating human interactions to enhance
-application validation and robustness.
-- Performed E2E testing building Azure Pipelines seamlessly integrating CI/CD and GitHub, using Azure DevOps for Swift.
+Collected, cleaned, and analysed datasets to support business decision-making.
 
-#### Senior Data Scientist – Datakalp LLP (June 2019 - Jan 2023)
+Developed interactive dashboards using Excel, SQL, Power BI, and Tableau.
 
-*Project 2: AI Solution for Hygiene Compliance with Real-Time Insights!*
-- Developed an AI software with 99% accuracte deep learning models, minimizing hospital acquired infection risk by 90%.
-- Published an interactive Web Application leveraging Python, PysPark, SQL, Django, Plotly, and Dash rendering dynamic graph visualizations and providing critical insights to stakeholders.
+Delivered data-driven insights to improve operational performance.
 
+#### Data Scientist Intern – Aroma Brand Solutions, Pune (Aug 2024 – Feb 2025)
 
-*Project 1: Natural language Processing(NLP)*
-- Reduced duplicate news in the feed by 98%  by engineering a BERT based Clustering solution with document embedding.
-- Developed a Chabot to Auto-generate SQL Queries for Database leveraging RASA frameworks intent and entity detection.
+Built predictive machine learning models to extract actionable insights.
 
-*General: Cloud Activities and Mentoring:*
-- Spearheaded designing and developing of several other projects & pipelines in Azure Machine Learning.
-- Provisioning and working with Azure & AWS infrastructure/resources.
+Applied data preprocessing and model optimisation techniques.
+
+Communicated insights through reports and visualisations for stakeholders.
+
 
 
 #### Data Scientist – Oracle Corporation (Aug 2018 - May 2019)
@@ -63,24 +90,64 @@ application validation and robustness.
 
 ### PERSONAL PROJECTS
 
-#### Generative AI (LLM) for Database:
-- Developed an End-to-end Large Language Model(LLM) based QnA web application for SQL Database 
-- ***Technical Stack: Palm LLM, LangChain (framework), MySQL DB, Chroma DB(vector database), Streamlit (UI)***
-[Link to Code] 
+#### Web Scraper using Python
 
-#### Image Classifier with Integrated CI/CD Workflow (Docker) 
+Designed an automated data extraction tool.
 
-- Built a MobilenetV2 archiecture based Deep learning model to classify furnitures with 97% Accuracy.
-- Developed and published Rest API's for model endpoints using Flask.
-- Configured automatic build and push of ducker images to docker hub.
-- ***Technical Stack: Tensorflow, Keras, Flask, OpenCV, Docker***
+Improved efficiency in collecting structured web data.
 
-[Link to Code](https://github.com/Aswinprabhakaran/Furniture-Classifier-with-integrated-CI-CD-Pipelines)
+#### IoT Human Activity Recognition
+
+Developed predictive solutions using IoT sensor data.
+
+Applied machine learning techniques for activity classification.
 
 
-#### Single Shot Object Detection
-- Built a custom single shot YOLO Object detection model with only one anchor box per feature-cell map.
-- Used Augmentation to generate more data for traning and evaluation.
-- ***Technical Stack: Darknet, Tensorflow, Keras, Flask, OpenCV***
+#### Customer Segmentation
 
-[Link to Code](https://github.com/Aswinprabhakaran/Shelf-Object-Recognition-using-Only-One-Anchor-Box)
+Applied K-Means clustering to segment customers based on purchasing behavior.
+
+Generated actionable insights for targeted marketing strategies.
+
+#### AI in Fashion-Tech
+
+Implemented AI-powered virtual try-on systems.
+
+Built personalised recommendation systems for enhanced user experience.
+
+#### Diabetes Detection using Machine Learning
+
+Developed a predictive model using healthcare metrics to identify diabetes risk.
+
+Applied classification algorithms and model evaluation techniques.
+
+
+### CERTIFICATIONS
+
+30-Day Master Class in Artificial Intelligence – Stanford University
+
+Data Analyst – Coursera
+
+Web Development Bootcamp – Udemy
+
+Data Structures & Algorithms – Simplilearn
+
+JavaScript – EdX
+
+SQL for Data Analysis – HackerRank
+
+Python Programming – Google Digital Garage
+
+Machine Learning Basics – IBM SkillsBuild
+
+### ACHIEVEMENTS
+
+Successfully completed four internships in Machine Learning, Data Science, and Data Analysis.
+
+Developed predictive ML models and analytical dashboards for real-world applications.
+
+Active participant in AI workshops, coding competitions, and technical clubs.
+
+### LANGUAGES
+
+English | Hindi | Telugu | Kannada.
