@@ -1,11 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bhavana Chinthamani</title>
+  <style>
+    body {
+      text-align: center;
+      font-family: Arial, sans-serif;
+      background-color: #ffffff;
+    }
+    img {
+      width: 220px;
+      border-radius: 15px;
+      margin-top: 50px;
+    }
+    h1 {
+      margin-top: 20px;
+      font-size: 28px;
+    }
+  </style>
+</head>
+<body>
 
-title: BHAVANA CHINTHAMANI
-theme: jekyll-theme-minimal
+  <img src="assets/img/ProfilePic.png" alt="Bhavana">
+  <h1>BHAVANA CHINTHAMANI</h1>
 
-logo: /assets/img/ProfilePic.png
-
-description: >
-  Data Scientist | AI & Machine Learning Enthusiast  
-  Passionate about building intelligent and data-driven solutions.
-
-show_downloads: false
+</body>
+</html>
