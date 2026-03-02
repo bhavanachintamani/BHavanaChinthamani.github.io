@@ -12,9 +12,9 @@
 
 ### TECHNICAL SKILLS
 
-Artificial Intelligence & Machine Learning: Predictive Modeling, Supervised & Unsupervised Learning, K-Means Clustering, Model Evaluation, Feature Engineering.
+**Artificial Intelligence & Machine Learning**: Predictive Modeling, Supervised & Unsupervised Learning, K-Means Clustering, Model Evaluation, Feature Engineering.
 
-Programming Languages: Python, Java, C, C++, JavaScript.
+**Programming Languages**: Python, Java, C, C++, JavaScript.
 
 Web Technologies: Angular, APIs, Git, GitHub.
 
