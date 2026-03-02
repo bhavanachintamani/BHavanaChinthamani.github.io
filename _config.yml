@@ -1,23 +1,10 @@
-title: Bhavana Chinthamani
-description: Personal Portfolio Website
-url: "https://bhavanachinthamani.github.io"
-baseurl: ""
 
-theme: minima
+title: BHAVANA CHINTHAMANI
+theme: jekyll-theme-minimal
 
-# Author Information
-author:
-  name: Bhavana Chinthamani
-  email: bhavanachintamani19@gmail.com
+logo: /assets/img/ProfilePic.png
+#description: text below image
+show_downloads: false
 
-# Social Links
-github_username: bhavanachinthamani
-linkedin_username: your-linkedin-username
-
-# Build Settings
-markdown: kramdown
-permalink: pretty
-
-# Plugins
-plugins:
-  - jekyll-feed
+# layout: single
+# classes: wide
