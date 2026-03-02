@@ -1,10 +1,10 @@
-
 title: BHAVANA CHINTHAMANI
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default" # You can choose: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
-logo: /assets/img/ProfilePic.png
-#description: text below image
-show_downloads: false
+author:
+  name: "Bhavana Chinthamani"
+  avatar: "/assets/img/ProfilePic.png"
+  location: "Bangalore"
 
-# layout: single
-# classes: wide
+show_excerpts: true
