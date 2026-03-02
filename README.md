@@ -2,7 +2,7 @@
 
 # DATA SCIENTIST | AI & MACHINE LEARNING ENTHUSIAST 
 
-### PROFESSIONAL SUMMARY
+### **PROFESSIONAL SUMMARY**
 
 - Highly motivated Computer Science graduate specialising in Artificial Intelligence.
 - Proficient in Python, JavaScript, Angular, Java, and C/C++ with hands-on experience in Machine Learning, Data Analysis, and Web Development.
@@ -10,140 +10,145 @@
 - Strong foundation in Data Structures, Operating Systems, OOP, and Database Management.
 - Passionate about leveraging Artificial Intelligence and Data Science to build impactful real-world solutions.
 
-### TECHNICAL SKILLS
+### **TECHNICAL SKILLS**
 
-**Artificial Intelligence & Machine Learning**: Predictive Modeling, Supervised & Unsupervised Learning, K-Means Clustering, Model Evaluation, Feature Engineering.
+- **Artificial Intelligence & Machine Learning**: Predictive Modelling, Supervised & Unsupervised Learning, K-Means Clustering, Model Evaluation, Feature Engineering.
 
-**Programming Languages**: Python, Java, C, C++, JavaScript.
+- **Programming Languages**: Python, Java, C, C++, JavaScript.
 
-Web Technologies: Angular, APIs, Git, GitHub.
+- **Web Technologies**: Angular, APIs, Git, GitHub.
 
-Data & Analytics Tools: Pandas, NumPy, Power BI, Tableau, Excel.
+- **Data & Analytics Tools**: Pandas, NumPy, Power BI, Tableau, Excel.
 
-Databases: MySQL, SQL.
+- **Databases**: MySQL, SQL.
 
-Computer Science Fundamentals: Data Structures, Algorithms, Operating Systems, Object-Oriented Programming (OOP).
+- **Computer Science Fundamentals**: Data Structures, Algorithms, Operating Systems, Object-Oriented Programming (OOP).
 
-Cloud & Tools: AWS (Basics).
+- **Cloud & Tools**: AWS (Basics).
 
-Soft Skills: Analytical Thinking, Communication, Adaptability, Problem Solving.
+- **Soft Skills**: Analytical Thinking, Communication, Adaptability, Problem Solving.
 
-### EDUCATION
-B.Tech – Computer Science with Artificial Intelligence
-Madanapalle Institute of Technology (Sep 2022 – May 2025)
+### **EDUCATION**
 
-Diploma – Computer Science Engineering
-PES Polytechnic College (Aug 2018 – Nov 2020)
+- **B.Tech** – Computer Science with Artificial Intelligence
+  Madanapalle Institute of Technology (Sep 2022 – May 2025)
 
-Matriculation
-St. Thomas English Medium School (Jun 2015 – May 2016)
+- **Diploma** – Computer Science Engineering
+  PES Polytechnic College (Aug 2018 – Nov 2020)
 
+- **Matriculation**
+  St. Thomas English Medium School (Jun 2015 – May 2016)
 
-### CERTIFICATIONS
 
-30-Day Master Class in Artificial Intelligence – Stanford University
+### **CERTIFICATIONS**
 
-Data Analyst – Coursera
+- **30-Day Master Class in Artificial Intelligence** – Stanford University
 
-Web Development Bootcamp – Udemy
+- **Data Analyst** – Coursera
 
-Data Structures & Algorithms – Simplilearn
+- **Web Development Bootcamp** – Udemy
 
-JavaScript – EdX
+- **Data Structures & Algorithms** – Simplilearn
 
-SQL for Data Analysis – HackerRank
+- **JavaScript** – EdX
 
-Python Programming – Google Digital Garage
+- **SQL for Data Analysis** – HackerRank
 
-Machine Learning Basics – IBM SkillsBuild
+- **Python Programming** – Google Digital Garage
 
-### WORK EXPERIENCE
+- **Machine Learning Basics** – IBM SkillsBuild
 
-#### Data Analyst Intern – Rooman Technologies, Bengaluru (Feb 2025 – May 2025)
+### **WORK EXPERIENCE**
 
-Collected, cleaned, and analysed datasets to support business decision-making.
+- #### **Data Analyst Intern – Rooman Technologies, Bengaluru (Feb 2025 – May 2025)**
 
-Developed interactive dashboards using Excel, SQL, Power BI, and Tableau.
+      Collected, cleaned, and analysed datasets to support business decision-making.
 
-Delivered data-driven insights to improve operational performance.
+      Developed interactive dashboards using Excel, SQL, Power BI, and Tableau.
 
-#### Data Scientist Intern – Aroma Brand Solutions, Pune (Aug 2024 – Feb 2025)
+      Delivered data-driven insights to improve operational performance.
 
-Built predictive machine learning models to extract actionable insights.
+- #### **Data Scientist Intern – Aroma Brand Solutions, Pune (Aug 2024 – Feb 2025)**
 
-Applied data preprocessing and model optimisation techniques.
+        Built predictive machine learning models to extract actionable insights.
 
-Communicated insights through reports and visualisations for stakeholders.
+        Applied data preprocessing and model optimisation techniques.
 
+        Communicated insights through reports and visualisations for stakeholders.
 
+- ### **Machine Learning Intern – Inspire Softech Solutions, Chennai (May 2023 – Jul 2023)**
 
-#### Data Scientist – Oracle Corporation (Aug 2018 - May 2019)
+       Optimised ML model performance for predictive analytics tasks.
 
-- Developed an anomaly detection system, flagging 30% of fraud transactions with ML models (Isolation Forest, One-Class SVM).
-- Developed a demand forecasting solution across different modules like ERP & SCM and Database.
-- Automated manual data ingestion and manipulation workflows into DB through SQL Procedures.
+      Collaborated on AI-driven projects involving real-world datasets.
 
+- ### **Machine Learning Developer Intern – Igeek Technologies, Bengaluru (Mar 2022 – Apr 2022)**
 
-### PERSONAL PROJECTS
+      Assisted in developing and training ML models using Python, TensorFlow, and Scikit-learn.
 
-#### Web Scraper using Python
+      Performed data preprocessing, feature engineering, and model evaluation.
 
-Designed an automated data extraction tool.
 
-Improved efficiency in collecting structured web data.
+### **PERSONAL PROJECTS**
 
-#### IoT Human Activity Recognition
+- #### **Web Scraper using Python**
 
-Developed predictive solutions using IoT sensor data.
+     Designed an automated data extraction tool.
 
-Applied machine learning techniques for activity classification.
+     Improved efficiency in collecting structured web data.
 
+- #### **IoT Human Activity Recognition**
 
-#### Customer Segmentation
+     Developed predictive solutions using IoT sensor data.
 
-Applied K-Means clustering to segment customers based on purchasing behavior.
+     Applied machine learning techniques for activity classification.
 
-Generated actionable insights for targeted marketing strategies.
 
-#### AI in Fashion-Tech
+- #### **Customer Segmentation**
 
-Implemented AI-powered virtual try-on systems.
+     Applied K-Means clustering to segment customers based on purchasing behaviour.
 
-Built personalised recommendation systems for enhanced user experience.
+     Generated actionable insights for targeted marketing strategies.
 
-#### Diabetes Detection using Machine Learning
+- #### **AI in Fashion-Tech**
 
-Developed a predictive model using healthcare metrics to identify diabetes risk.
+     Implemented AI-powered virtual try-on systems.
 
-Applied classification algorithms and model evaluation techniques.
+    Built personalised recommendation systems for enhanced user experience.
 
+- #### **Diabetes Detection using Machine Learning**
 
-### CERTIFICATIONS
+     Developed a predictive model using healthcare metrics to identify diabetes risk.
 
-30-Day Master Class in Artificial Intelligence – Stanford University
+     Applied classification algorithms and model evaluation techniques.
 
-Data Analyst – Coursera
 
-Web Development Bootcamp – Udemy
+### **CERTIFICATIONS**
 
-Data Structures & Algorithms – Simplilearn
+- **30-Day Master Class in Artificial Intelligence** – Stanford University
 
-JavaScript – EdX
+- **Data Analyst** – Coursera
 
-SQL for Data Analysis – HackerRank
+- **Web Development Bootcamp** – Udemy
 
-Python Programming – Google Digital Garage
+- **Data Structures & Algorithms** – Simplilearn
 
-Machine Learning Basics – IBM SkillsBuild
+- **JavaScript** – EdX
 
-### ACHIEVEMENTS
+- **SQL for Data Analysis** – HackerRank
 
-Successfully completed four internships in Machine Learning, Data Science, and Data Analysis.
+- **Python Programming** – Google Digital Garage
 
-Developed predictive ML models and analytical dashboards for real-world applications.
+- **Machine Learning Basics** – IBM SkillsBuild
 
-Active participant in AI workshops, coding competitions, and technical clubs.
+### **ACHIEVEMENTS**
 
-### LANGUAGES
+- Completed four internships in Machine Learning, Data Science, and Data Analysis.
 
-English | Hindi | Telugu | Kannada.
+- Developed predictive ML models and analytical dashboards for real-world applications.
+
+- Active participant in AI workshops, coding competitions, and technical clubs.
+
+### **LANGUAGES**
+
+- English | Hindi | Telugu | Kannada.
