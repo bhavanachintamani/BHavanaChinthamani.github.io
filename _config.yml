@@ -2,6 +2,9 @@ title: BHAVANA CHINTHAMANI
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default" # You can choose: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
+# Use README as homepage
+home_link: /
+
 author:
   name: "Bhavana Chinthamani"
   avatar: "/assets/img/ProfilePic.png"
