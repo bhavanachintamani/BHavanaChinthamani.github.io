@@ -3,8 +3,9 @@ title: BHAVANA CHINTHAMANI
 theme: jekyll-theme-minimal
 
 logo: /assets/img/ProfilePic.png
-#description: text below image
-show_downloads: false
 
-# layout: single
-# classes: wide
+description: >
+  Data Scientist | AI & Machine Learning Enthusiast  
+  Passionate about building intelligent and data-driven solutions.
+
+show_downloads: false
